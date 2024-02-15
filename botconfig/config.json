@@ -1,8 +1,8 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "f1c28c2474f2eadce20486054e3776a2bae5e2d0b5ba934b7731e3e1f9a4127c",
+    "prefix": "Team Apex",
     "ownerIDS": [
-        "442355791412854784"
+        "1010663411752906843"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
